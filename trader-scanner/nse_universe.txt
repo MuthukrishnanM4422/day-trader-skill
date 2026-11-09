@@ -1,0 +1,52 @@
+# NSE starter universe: large, liquid names (series EQ). Regenerate the full
+# list with: scan.py universe --market IN   (or save EQUITY_L.csv and use --offline DIR)
+RELIANCE|Reliance Industries Limited
+TCS|Tata Consultancy Services Limited
+HDFCBANK|HDFC Bank Limited
+ICICIBANK|ICICI Bank Limited
+INFY|Infosys Limited
+HINDUNILVR|Hindustan Unilever Limited
+ITC|ITC Limited
+SBIN|State Bank of India
+BHARTIARTL|Bharti Airtel Limited
+KOTAKBANK|Kotak Mahindra Bank Limited
+LT|Larsen and Toubro Limited
+AXISBANK|Axis Bank Limited
+ASIANPAINT|Asian Paints Limited
+MARUTI|Maruti Suzuki India Limited
+SUNPHARMA|Sun Pharmaceutical Industries Limited
+TITAN|Titan Company Limited
+ULTRACEMCO|UltraTech Cement Limited
+BAJFINANCE|Bajaj Finance Limited
+NESTLEIND|Nestle India Limited
+WIPRO|Wipro Limited
+ONGC|Oil and Natural Gas Corporation Limited
+NTPC|NTPC Limited
+TATAMOTORS|Tata Motors Limited
+POWERGRID|Power Grid Corporation of India Limited
+M&M|Mahindra and Mahindra Limited
+TATASTEEL|Tata Steel Limited
+ADANIENT|Adani Enterprises Limited
+ADANIPORTS|Adani Ports and Special Economic Zone Limited
+COALINDIA|Coal India Limited
+HCLTECH|HCL Technologies Limited
+BAJAJAUTO|Bajaj Auto Limited
+INDUSINDBK|IndusInd Bank Limited
+JSWSTEEL|JSW Steel Limited
+HINDZINC|Hindustan Zinc Limited
+TECHM|Tech Mahindra Limited
+GRASIM|Grasim Industries Limited
+CIPLA|Cipla Limited
+DRREDDY|Dr. Reddys Laboratories Limited
+EICHERMOT|Eicher Motors Limited
+HEROMOTOCO|Hero MotoCorp Limited
+BRITANNIA|Britannia Industries Limited
+APOLLOHOSP|Apollo Hospitals Enterprise Limited
+SBILIFE|SBI Life Insurance Company Limited
+HDFCLIFE|HDFC Life Insurance Company Limited
+BAJAJFINSV|Bajaj Finserv Limited
+DIVISLAB|Divis Laboratories Limited
+BPCL|Bharat Petroleum Corporation Limited
+TATACONSUM|Tata Consumer Products Limited
+UPL|UPL Limited
+VEDL|Vedanta Limited
