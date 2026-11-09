@@ -1,0 +1,9 @@
+# runtime state the tools write (orders, watchlist, fills, dashboard.html)
+trader/
+# python
+__pycache__/
+*.pyc
+# editor / os noise
+.DS_Store
+Thumbs.db
+*.zip
